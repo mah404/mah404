@@ -5,4 +5,4 @@ Once upon a time I said `Hello World` 👶💻
 🚨 professionally fixing bugs I created myself
 
 
-<img width="1672" height="941" alt="ChatGPT Image May 16, 2026, 09_13_29 PM" src="https://github.com/user-attachments/assets/d259c78e-ef0b-4e6e-8679-103cdcdb9875" />
+<img width="1417" height="756" alt="ChatGPT Image May 23, 2026, 12_47_00 PM" src="https://github.com/user-attachments/assets/61eadb04-7fa5-4d54-87b2-f3626bad98f2" />
